@@ -1,0 +1,2 @@
+import fuck
+fuck.fuck()
